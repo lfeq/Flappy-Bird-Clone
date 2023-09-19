@@ -37,7 +37,7 @@ Your goal in Flappy Bird Clone is to navigate the bird through a series of pipes
 
 ## Credits
 
-This game is created by [develion](https://develion.itch.io/flappy-bird-unity-project) I just implemented the features explained above.
+This game was created by [develion](https://develion.itch.io/flappy-bird-unity-project) I just implemented the features explained above.
 
 Available on [itch.io](https://oopolo.itch.io/flappy-bird-no-10000000).
 
